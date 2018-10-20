@@ -1,0 +1,6 @@
+Nombre: 		Rosa Ortega Aburto
+Edad: 			35
+Nacionalidad: 		mexicana
+Originario de: 		Ciudad de México
+Estudios:		Ing. en Computación
+Profesión:		Analista de Riesgos
