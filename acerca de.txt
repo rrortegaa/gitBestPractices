@@ -4,3 +4,4 @@ Nacionalidad: 		mexicana
 Originario de: 		Ciudad de México
 Estudios:		Ing. en Computación
 Profesión:		Analista de Riesgos
+hola
